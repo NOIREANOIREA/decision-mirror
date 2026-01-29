@@ -61,4 +61,5 @@ See /governance/CHARTER.md
 
 ## License
 
-See LICENSE
+This project is licensed under the Apache 2.0 License.
+See LICENSE for details.
