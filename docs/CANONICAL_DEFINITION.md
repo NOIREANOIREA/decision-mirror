@@ -1,19 +1,71 @@
 # Decision Mirror — Canonical Definition v1.0
 
-Decision Mirror is a governance framework designed to ensure
-that system capabilities are introduced only after
-human awareness and veto are structurally possible.
+Decision Mirror is a governance framework designed to preserve
+human agency in automated and assistive systems.
 
-Any implementation that lacks:
+It operates by ensuring that:
 
-- Human veto mechanisms
-- Public decision records
-- Documented boundary reviews
-- Traceable responsibility
+1. **No system capability is admitted**
+   before human awareness and veto are structurally possible.
 
-MUST NOT present itself as “Decision Mirror”.
+2. **Responsibility for decisions**
+   remains attributable to identifiable human actors.
 
-This document defines the authoritative interpretation
-of the framework.
+3. **Irreversible or opaque system behaviors**
+   require documented deliberation and approval.
 
-Amendments require public review and versioning.
+4. **Optimization, prediction, or adaptation**
+   must not precede explicit governance review.
+
+5. **System evolution must remain explainable**
+   through versioned records and boundary cases.
+
+Decision Mirror governs admission of power,
+not evaluation of outcomes.
+
+---
+
+## What Decision Mirror Is Not
+
+Decision Mirror is not:
+
+- A moral scoring system
+- An AI alignment doctrine
+- A compliance certification
+- A behavioral control mechanism
+- A productivity optimization tool
+
+Any implementation that violates these principles
+is not considered an official instance of Decision Mirror.
+
+---
+
+## Canonical Reference
+
+The authoritative definition of Decision Mirror
+is maintained in:
+
+- Decision Mirror Public Playbook v1.x
+- Governance Charter
+- Case Archive
+
+Only versions released by the maintainers
+constitute canonical updates.
+
+---
+
+## Governance
+
+Amendments to this definition require:
+
+- Public documentation
+- Maintainer consensus
+- Versioned release
+
+Silent modification is prohibited.
+
+---
+
+**Version:** 1.0  
+**Published:** 2026-01-28  
+**Next Review:** 2026-04-28
